@@ -9,7 +9,8 @@ Use the Application
 ```bash
 cd backend
 npm install 
-
+```
+```bash
 cd frontend
 npm install 
 ```
@@ -18,7 +19,8 @@ npm install
 ```bash
 cd backend
 npm run dev
-
+```
+```bash
 cd frontend
 npm run dev
 ```
